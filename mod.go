@@ -1,5 +1,5 @@
 package mod3
 
 func HelloWorld() int {
-	return 3
+	return 4
 }
