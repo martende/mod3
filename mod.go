@@ -1,4 +1,4 @@
-package cmd1
+package mod3
 
 func HelloWorld() int {
 	return 1
